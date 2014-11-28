@@ -1,8 +1,8 @@
-Pulls the top 5 posts on /r/learnpython and stores Title, Text, and Date Created for each post in Output.txt. 
+A simple reddit bot that will do the following:
 
-From terminal, run:
+1. It will monitor a particular subreddit for new posts, and when someone posts “We ran out of cat food”, it will reply “So it has come to this...”.
 
-python findSubmissions.py > output.txt
+2. It will also monitor all comments to recent posts, and if it finds one that says “xkcd”, it will post a link to /r/pythonforengineers and direct the commentor to https://xkcd.com/1022/.
 
 This is part of Shantnu Tiwari's "Build a Reddit Bot" tutorial, which can be located here:
 
