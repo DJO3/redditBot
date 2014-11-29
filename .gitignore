@@ -1,0 +1,6 @@
+# PYC #
+###################
+*.pyc
+
+# Misc. Files #
+posts_replied_to.txt
