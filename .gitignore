@@ -2,5 +2,6 @@
 ###################
 *.pyc
 
-# Misc. Files #
+# Cached Files #
 posts_replied_to.txt
+comments_replied_to.txt

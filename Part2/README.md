@@ -1,4 +1,4 @@
-A simple reddit bot that will locate specific text in a post title and add a comment. 
+Two functions that will authenticate with reddit, search a subreddit for matching posts and add a comment and/or reply to a post. 
 
 Credentials, Agent ID, Subreddit, Comment, and text to search for are set in config_bot.py. Password is configured for to be base64 encoded.  
 
